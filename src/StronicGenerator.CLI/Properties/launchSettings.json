@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StronicGenerator.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Proj\\Sieyu-language\\src C:\\Proj\\Sieyu-language\\out"
+    }
+  }
+}
